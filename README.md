@@ -54,7 +54,7 @@ Include screenshots of your application to showcase its UI and functionality.
   </tr>
     </table>
 
-    <table>
+  <table>
   <tr>
     <td><img src="screenshots/message.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/message2.jpg" width="200" style="margin-bottom: 20px;"/></td>
