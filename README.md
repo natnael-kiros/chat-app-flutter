@@ -53,11 +53,10 @@ Include screenshots of your application to showcase its UI and functionality.
     <td>Group Name</td>
     <td>Group Select</td>
   </tr>
-    </table>
+  </table>
 
   <table>
   <tr>
-    
     <td><img src="screenshots/groupmessage.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/groupname.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/groupselect.jpg" width="200" style="margin-bottom: 20px;"/></td>
