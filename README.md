@@ -23,10 +23,45 @@ The Chat App is a mobile application built using **Flutter** that allows users t
 
 Include screenshots of your application to showcase its UI and functionality.
 
-![Sign Up Page](screenshots/signup.jpg)
-![Chat List](screenshots/login.jpg)
-![Group Chat](screenshots/chat.jpg)
-![Broadcast Messages](screenshots/group.jpg)
+<table>
+  <tr>
+    <td><img src="screenshots/signup.jpg" width="200"/></td>
+    <td><img src="screenshots/login.jpg" width="200"/></td>
+    <td><img src="screenshots/chat.jpg" width="200"/></td>
+    <td><img src="screenshots/group.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Sign Up</td>
+    <td>Login</td>
+    <td>Chat</td>
+    <td>Group</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/contacts.jpg" width="200"/></td>
+    <td><img src="screenshots/groupmessage.jpg" width="200"/></td>
+    <td><img src="screenshots/groupname.jpg" width="200"/></td>
+    <td><img src="screenshots/groupselect.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Contacts</td>
+    <td>Group Message</td>
+    <td>Group Name</td>
+    <td>Group Select</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/message.jpg" width="200"/></td>
+    <td><img src="screenshots/message2.jpg" width="200"/></td>
+    <td><img src="screenshots/addcontact.jpg" width="200"/></td>
+    <td><img src="screenshots/drawer.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Message</td>
+    <td>Message 2</td>
+    <td>Add Contact</td>
+    <td>Drawer</td>
+  </tr>
+</table>
+
 
 
 
