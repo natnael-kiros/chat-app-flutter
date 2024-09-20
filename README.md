@@ -108,4 +108,5 @@ Before starting, make sure you have the following installed:
    ->Navigate to the server directory and run the Dart server.
 
 6. **Run the app:**
-  flutter run
+   
+  ->flutter run
