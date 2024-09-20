@@ -25,7 +25,7 @@ Include screenshots of your application to showcase its UI and functionality.
 
 <table>
   <tr>
-    <td><img src="screenshots/signup.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    <td><img src="screenshots/signup2.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/login.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/chat.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/group.jpg" width="200" style="margin-bottom: 20px;"/></td>
@@ -41,10 +41,11 @@ Include screenshots of your application to showcase its UI and functionality.
 
   <table>
   <tr>
+    <td><img src="screenshots/message.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    <td><img src="screenshots/message2.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    <td><img src="screenshots/addcontact.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/contacts.jpg" width="200" style="margin-bottom: 20px;"/></td>
-    <td><img src="screenshots/groupmessage.jpg" width="200" style="margin-bottom: 20px;"/></td>
-    <td><img src="screenshots/groupname.jpg" width="200" style="margin-bottom: 20px;"/></td>
-    <td><img src="screenshots/groupselect.jpg" width="200" style="margin-bottom: 20px;"/></td>
+   
   </tr>
   <tr>
     <td>Contacts</td>
@@ -56,9 +57,10 @@ Include screenshots of your application to showcase its UI and functionality.
 
   <table>
   <tr>
-    <td><img src="screenshots/message.jpg" width="200" style="margin-bottom: 20px;"/></td>
-    <td><img src="screenshots/message2.jpg" width="200" style="margin-bottom: 20px;"/></td>
-    <td><img src="screenshots/addcontact.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    
+    <td><img src="screenshots/groupmessage.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    <td><img src="screenshots/groupname.jpg" width="200" style="margin-bottom: 20px;"/></td>
+    <td><img src="screenshots/groupselect.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/drawer.jpg" width="200" style="margin-bottom: 20px;"/></td>
   </tr>
   <tr>
