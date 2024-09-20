@@ -17,7 +17,7 @@ The Chat App is a mobile application built using **Flutter** that allows users t
 ## Architecture
 
 - **Client**: Built with Flutter, providing a smooth and responsive user interface for real-time communication.
- **Server**: A Dart server that manages user requests, authentication, and real-time messaging. (See [Chat App Server Repository](https://github.com/username/chat-app-server.git) for more details.)
+ **Server**: A Dart server that manages user requests, authentication, and real-time messaging. (See [Chat App Server Repository](https://github.com/natnel-kiros/chat-app-server.git) for more details.)
 
 - **Database**: SQLite is used for local storage of messages, ensuring data persistence and efficient retrieval.
 ## Screenshots
