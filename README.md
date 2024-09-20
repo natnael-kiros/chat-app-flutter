@@ -38,9 +38,10 @@ Include screenshots of your application to showcase its UI and functionality.
   </tr>
   <tr>
     <td><img src="screenshots/contacts.jpg" width="200"/></td>
-    <td><img src="screenshots/groupmessage.jpg" width="200"/></td>
-    <td><img src="screenshots/groupname.jpg" width="200"/></td>
-    <td><img src="screenshots/groupselect.jpg" width="200"/></td>
+    <td><img src="screenshots/addcontact.jpg" width="200"/></td>
+    <td><img src="screenshots/message.jpg" width="200"/></td>
+    <td><img src="screenshots/message2.jpg" width="200"/></td>
+    
   </tr>
   <tr>
     <td>Contacts</td>
@@ -49,10 +50,10 @@ Include screenshots of your application to showcase its UI and functionality.
     <td>Group Select</td>
   </tr>
   <tr>
-    <td><img src="screenshots/message.jpg" width="200"/></td>
-    <td><img src="screenshots/message2.jpg" width="200"/></td>
-    <td><img src="screenshots/addcontact.jpg" width="200"/></td>
     <td><img src="screenshots/drawer.jpg" width="200"/></td>
+    <td><img src="screenshots/groupmessage.jpg" width="200"/></td>
+    <td><img src="screenshots/groupname.jpg" width="200"/></td>
+    <td><img src="screenshots/groupselect.jpg" width="200"/></td>
   </tr>
   <tr>
     <td>Message</td>
