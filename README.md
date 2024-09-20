@@ -36,6 +36,9 @@ Include screenshots of your application to showcase its UI and functionality.
     <td>Chat</td>
     <td>Group</td>
   </tr>
+  </table>
+
+  <table>
   <tr>
     <td><img src="screenshots/contacts.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/groupmessage.jpg" width="200" style="margin-bottom: 20px;"/></td>
@@ -48,6 +51,8 @@ Include screenshots of your application to showcase its UI and functionality.
     <td>Group Name</td>
     <td>Group Select</td>
   </tr>
+    </table>
+    <table>
   <tr>
     <td><img src="screenshots/message.jpg" width="200" style="margin-bottom: 20px;"/></td>
     <td><img src="screenshots/message2.jpg" width="200" style="margin-bottom: 20px;"/></td>
