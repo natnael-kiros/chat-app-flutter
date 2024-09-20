@@ -38,6 +38,7 @@ Include screenshots of your application to showcase its UI and functionality.
   </tr>
   </table>
 
+
   <table>
   <tr>
     <td><img src="screenshots/contacts.jpg" width="200" style="margin-bottom: 20px;"/></td>
@@ -52,6 +53,9 @@ Include screenshots of your application to showcase its UI and functionality.
     <td>Group Select</td>
   </tr>
     </table>
+
+
+    
     <table>
   <tr>
     <td><img src="screenshots/message.jpg" width="200" style="margin-bottom: 20px;"/></td>
